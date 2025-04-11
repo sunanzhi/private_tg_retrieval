@@ -1,0 +1,6 @@
+python-telegram-bot[job-queue]==20.6
+telethon=1.39.0
+python-dotenv==1.0.0
+fastapi==0.225.12
+uvicorn==0.34.0
+pydantic==2.11.3
